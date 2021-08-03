@@ -3,7 +3,7 @@ module.exports = (client) => {
   client.on("guildMemberAdd", (member) => {
     console.log(member);
 
-    const message = require("Vítej <@${member.id}> na serveru <${server.name}>. Jsi `<${guild.memberCount}>` člen");
+    const message = require('s./config.json');
 
     const channel = member.guild.channels.cache.get(channelId.channel);
     channel.send(message.message);
