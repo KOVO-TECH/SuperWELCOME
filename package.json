@@ -1,0 +1,33 @@
+{
+  "name": "superwelcome",
+  "version": "1.0.0",
+  "description": "Welcomer for discord, cz language.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOVO-TECH/SuperWELCOME.git"
+  },
+  "keywords": [
+    "Welcomer",
+    "Vítač",
+    "Discord",
+    "welcomer",
+    "welcomer",
+    "discord.js",
+    "cz",
+    "czech"
+  ],
+  "author": "KOVO-TECH (VOVL)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KOVO-TECH/SuperWELCOME/issues"
+  },
+  "homepage": "https://github.com/KOVO-TECH/SuperWELCOME#readme"
+}
