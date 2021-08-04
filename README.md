@@ -5,11 +5,11 @@ SuperWELCOME je discord bot na vítání plně v českém jazyce, má i upravite
 
 **Instalace**
 1) Otevřete consoli s nainstalovaným Node.js
-2) Napište ```node.js git clone https://github.com/KOVO-TECH/SuperWELCOME```
+2) Napište ```javascript git clone https://github.com/KOVO-TECH/SuperWELCOME```
 3) Otevřete složku
 4) Nastavte vašeho bota podle návodu níže👇
-5) Napište ```node.js npm i```
-6) Potom napište ```node.js node index.js```
+5) Napište ```javascript npm i```
+6) Potom napište ```javascript node index.js```
 
 **NASTAVENÍ**
 
