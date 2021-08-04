@@ -12,13 +12,11 @@ SuperWELCOME je discord bot na vítání plně v českém jazyce, má i upravite
 **Autor**
 
 Autorem je VoVl, který pracuje pro KOVO-TECH,
-
 KOVO-TECH dělá boty na objednávku ale na svůj github dává jedny z mála botů které jsou zdarma.
-
 https://dsc.gg/kovo-tech
 
 **BUGY**
 
--Našli jste nějaký bug?
+Našli jste nějaký bug?
 
--Napište nám na discord: https://dsc.gg/kovo-tech
+Napište nám na discord: https://dsc.gg/kovo-tech
