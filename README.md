@@ -18,5 +18,4 @@ https://dsc.gg/kovo-tech
 **BUGY**
 
 Našli jste nějaký bug?
-
 Napište nám na discord: https://dsc.gg/kovo-tech
